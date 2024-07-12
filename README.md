@@ -13,6 +13,7 @@ Welcome to the Sports Celebrity Image Classification project! This repository co
 - [Model Training](#model-training)
 - [Web Application](#web-application)
 - [Deployment](#deployment)
+- [Upload Images](#upload-images)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -134,6 +135,14 @@ The Flask server handles the backend logic for image classification. It loads th
 1. **Ensure all dependencies are installed**: Follow the installation steps.
 2. **Start the server**: Run `python server/server.py`.
 3. **Access the web application**: Navigate to `http://127.0.0.1:5000/`.
+
+## Upload Images
+
+Below are some sample images of the web application's upload section. This section provides a user-friendly interface to upload images for classification.
+
+![Upload Section](static/images/upload_section.png)
+
+![Image Upload Example](static/images/image_upload_example.png)
 
 ## Contributing
 
