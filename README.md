@@ -140,9 +140,13 @@ The Flask server handles the backend logic for image classification. It loads th
 
 Below are some sample images of the web application's upload section. This section provides a user-friendly interface to upload images for classification.
 
-![Upload Section](static/images/upload_section.png)
+<div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
+    <img src="./website.jpg" alt="Upload Section" style="display: block; margin-left: auto; margin-right: auto;">
+</div>
 
-![Image Upload Example](static/images/image_upload_example.png)
+<div style="border: 1px solid #ccc; padding: 10px;">
+    <img src="./working.jpg" alt="Image Upload Example" style="display: block; margin-left: auto; margin-right: auto;">
+</div>
 
 ## Contributing
 
